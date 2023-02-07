@@ -2,7 +2,6 @@ body {
     background-color: #111111;
     color: aliceblue;
 }
-
 #navBar ul {
     list-style-type: none;
     margin: 0;
@@ -50,20 +49,8 @@ body {
     text-align: center;
 }
 
-/* #main {
-    margin: 2% 20% 5% 2%;
-    text-align: justify;
-} */
 
 #main a:visited {
     text-decoration: none;
     color: blue;
 }
-
-/* .placeholder {
-    font-weight: bold;
-}
-
-.projectDiv {
-    padding-top: 3%;
-} */
