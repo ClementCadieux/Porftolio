@@ -27,10 +27,6 @@ body {
     padding: 14px 16px;
     text-decoration: none;
 }
-#navBar li:last-child{
-    border-right: none;
-    float: right;
-}
 
 #navBar li:hover{
   background-color: #111;
