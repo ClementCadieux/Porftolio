@@ -54,3 +54,7 @@ body {
 img{
     margin: 3px;
 }
+
+#contactRow{
+    text-align: center;
+}
