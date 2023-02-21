@@ -1,12 +1,12 @@
 body {
-    background-color: #111111;
+    background-color:rgb(0, 0, 25);
     color: aliceblue;
 }
 #navBar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #202020;
+    background-color: #222222;
     position: fixed;
     top: 0;
     left: 0;
